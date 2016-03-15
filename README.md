@@ -13,3 +13,5 @@
 ***
 >Außerdem bitte ich allen Fachinformatiker Lernmaterial zum üben auf [IBB-Fisi.de](http://ibb-fisi.de)
 >Für alle die weitere Möglichkeiten suchen sich auszutauschen habe ich ein Forum erstellt was Sie auf [IBB-Forum.comn](http://ibb-forum.com) finden!
+***
+>2016 by. [Frank Panzer](http://frank-panzer.de) von [BC24.org](http://bc24.org)
