@@ -1,1 +1,0 @@
-<form> <select name="top5" size="5" multiple> <option>Heino</option> <option>Michael Jackson</option> <option>Tom Waits</option> <option>Nina Hagen</option> <option>Marianne Rosenberg</option> </select> </form>
