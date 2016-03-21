@@ -5,10 +5,10 @@
 >Folgende Punkte werde ich mit der Zeit erarbeiten damit die Übersichtlichkeit nicht verloren geht.
 ### Hauptpunkte
 * C#
-* HTML
+* [HTML](https://github.com/bc24/IBB/tree/master/HTML)
 * HTML5
-* PHP
-* SQL
+* [PHP](https://github.com/bc24/IBB/tree/master/PHP)
+* [SQL](https://github.com/bc24/IBB/tree/master/SQL)
 
 ***
 >Außerdem bitte ich allen Fachinformatiker Lernmaterial zum üben auf [IBB-Fisi.de](http://ibb-fisi.de)
